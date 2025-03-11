@@ -14,8 +14,8 @@
 - **[App de Registro de Compras de Supermercado](https://github.com/c-o-s-m-o/registro_de_compras)** 🛒: Meu primeiro projeto no Flutter! Um app completo para gerenciar compras de supermercado, permitindo adicionar, ocultar e excluir itens, calcular o total do carrinho e registrar compras finalizadas com nome do mercado e data.  
 
 ## 📈 Estatísticas do GitHub  
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&hide=html,css)  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=c-o-s-m-o&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=c-o-s-m-o&layout=compact&hide=html,css) 
 
 ## 📫 Como me encontrar  
 - LinkedIn: [link]  
