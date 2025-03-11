@@ -11,7 +11,7 @@
 - **Ferramentas**: Android Studio, VS Code, Git.  
 
 ## 🚀 Projetos em Destaque  
-- **[App de Registro de Compras de Supermercado](link)** 🛒: Meu primeiro projeto no Flutter! Um app completo para gerenciar compras de supermercado, permitindo adicionar, ocultar e excluir itens, calcular o total do carrinho e registrar compras finalizadas com nome do mercado e data.  
+- **[App de Registro de Compras de Supermercado](https://github.com/c-o-s-m-o/registro_de_compras)** 🛒: Meu primeiro projeto no Flutter! Um app completo para gerenciar compras de supermercado, permitindo adicionar, ocultar e excluir itens, calcular o total do carrinho e registrar compras finalizadas com nome do mercado e data.  
 
 ## 📈 Estatísticas do GitHub  
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)  
