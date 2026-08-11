@@ -1,69 +1,91 @@
+<div align="center">
+
 # Emanuel Cosmo
 
-**Software Engineer • Full Stack • Data & AI • Automation**
+### Software Engineer · Full Stack · Data & AI · Automation
 
-Brasília, DF — Brasil
+**Brasília, DF · Brasil**
 
-Desenvolvo produtos digitais e soluções de software com foco em aplicações web modernas, arquitetura organizada, automação, dados e experiências de usuário. Meu portfólio reúne projetos de produto, aplicações para negócios, plataformas de conteúdo, mobile e estudos aplicados em engenharia de dados e machine learning.
+Desenvolvo produtos digitais, aplicações web e soluções orientadas a dados com foco em arquitetura clara, experiência de usuário, automação e evolução sustentável do código.
 
-## Stack principal
+[![Portfolio](https://img.shields.io/badge/Portfolio-c--o--s--m--o.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://c-o-s-m-o.github.io)
+[![Email](https://img.shields.io/badge/Email-emanuelcosmo%40hotmail.com-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:emanuelcosmo@hotmail.com)
 
-**Frontend**  
-Next.js • React • TypeScript • Tailwind CSS • Flutter • Dart
-
-**Backend, dados e automação**  
-Python • Pandas • SQL • SQLite • ETL • integrações com serviços externos
-
-**Engenharia**  
-Git • GitHub • arquitetura em camadas • documentação técnica • modelagem de domínio • responsividade • acessibilidade • performance
-
-## Projetos em destaque
-
-### [FX Enterprise](https://github.com/c-o-s-m-o/fx_enterprise)
-Aplicação web moderna para apresentação de soluções e produtos empresariais. O projeto evoluiu de uma navegação controlada por estado para rotas reais de produto e uma organização por camadas de apresentação, seções e domínio.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Recharts` `Framer Motion` `React PDF`
-
-### [Instituto Brasileiro de Fotografia de Natureza](https://github.com/c-o-s-m-o/Ibfn-Instituto_Brasileiro_de_Fotografia_de_Natureza)
-Experiência web voltada a fotografia de natureza e birdwatching, com galeria dinâmica, dados de espécies, lightbox com zoom e gestos, agenda de expedições, cursos e integrações sociais.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Cheerio`
-
-### [Fix Now Technology](https://github.com/c-o-s-m-o/FixNowTechnology)
-Site institucional para empresa de tecnologia e drones, com conteúdo voltado a clientes, setor público, parceiros, investidores e formação técnica.
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-### [TOTVS — Engenharia de Dados & Machine Learning](https://github.com/c-o-s-m-o/totvs-fundamentos-engenharia-dados-machine-learning)
-Repositório de estudos e desafios práticos envolvendo Python, pipelines ETL, dados, AWS, documentação técnica e IA generativa.
-
-`Python` `Pandas` `AWS` `ETL` `CSV` `Mermaid`
-
-### [Registro de Compras](https://github.com/c-o-s-m-o/registro_de_compras)
-Aplicativo mobile para controle de compras de supermercado, com histórico, cálculo automático, persistência local e gerenciamento de estado.
-
-`Flutter` `Dart` `Provider` `SQLite`
-
-## Como trabalho
-
-- Transformo requisitos de negócio em interfaces e fluxos funcionais.
-- Organizo projetos para facilitar manutenção e evolução.
-- Documento decisões e funcionamento para reduzir dependência de conhecimento implícito.
-- Uso Git como parte do processo de engenharia, não apenas como armazenamento de código.
-- Busco separar experimentos, estudos e sistemas de produção para manter clareza técnica.
-
-## Evolução do portfólio
-
-Este GitHub também preserva projetos antigos que representam etapas anteriores da minha formação. Eles permanecem disponíveis como histórico de evolução, enquanto os projetos destacados acima representam melhor meu trabalho atual.
-
-## Formação contínua
-
-Tenho interesse especial em engenharia de software, sistemas de IA, automação, dados, finanças, matemática, eletrônica e produtos digitais.
-
-## Contato
-
-**E-mail:** emanuelcosmo@hotmail.com
+</div>
 
 ---
 
-> Este perfil está em processo contínuo de curadoria: documentação, arquitetura e apresentação dos projetos são atualizadas para refletir o estado real de cada sistema.
+## Sobre
+
+Meu portfólio reúne aplicações para negócios, experiências web, projetos mobile e estudos aplicados em engenharia de dados e machine learning. Procuro transformar requisitos reais em sistemas compreensíveis, documentados e preparados para evolução.
+
+### Stack principal
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Projetos selecionados
+
+| Projeto | O que demonstra | Stack principal |
+|---|---|---|
+| **[FX Enterprise](https://github.com/c-o-s-m-o/fx_enterprise)** | Aplicação empresarial, rotas de produto, componentização por camadas, visualização de dados e integrações | Next.js · React · TypeScript · Recharts · Framer Motion |
+| **[Fotografia de Natureza / IBFN](https://github.com/c-o-s-m-o/Ibfn-Instituto_Brasileiro_de_Fotografia_de_Natureza)** | Galeria dinâmica, integração com WikiAves, lightbox avançado, gestos touch e conteúdo editorial | Next.js · TypeScript · Tailwind CSS · Cheerio |
+| **[Fix Now Technology](https://github.com/c-o-s-m-o/FixNowTechnology)** | Produto web orientado a negócio com múltiplos públicos e conteúdo institucional complexo | Next.js · React · TypeScript · Tailwind CSS |
+| **[Engenharia de Dados & ML — TOTVS](https://github.com/c-o-s-m-o/totvs-fundamentos-engenharia-dados-machine-learning)** | ETL, Python, Pandas, AWS, documentação técnica e organização de dados | Python · Pandas · AWS · ETL · Mermaid |
+| **[Registro de Compras](https://github.com/c-o-s-m-o/registro_de_compras)** | Aplicativo mobile funcional, estado reativo, histórico e persistência local | Flutter · Dart · Provider · SQLite |
+| **[Zyro Finance](https://github.com/c-o-s-m-o/zyro_finance)** | Arquitetura mobile em camadas e injeção de dependências | Flutter · Dart · GetIt |
+
+---
+
+## Engenharia e forma de trabalho
+
+```text
+requisito
+   ↓
+modelagem do problema
+   ↓
+arquitetura e responsabilidades
+   ↓
+implementação incremental
+   ↓
+validação e documentação
+   ↓
+Git / histórico de evolução
+```
+
+- separação entre domínio, apresentação e infraestrutura quando o projeto exige;
+- componentização para reduzir acoplamento e facilitar manutenção;
+- documentação do problema, solução, stack e decisões técnicas;
+- preocupação com responsividade, acessibilidade e experiência de uso;
+- Git como ferramenta de engenharia e rastreabilidade, não apenas armazenamento;
+- distinção clara entre projetos atuais, estudos e sistemas legados.
+
+---
+
+## Áreas de interesse
+
+**Engenharia de Software** · **IA aplicada** · **Automação** · **Dados** · **Finanças** · **Matemática** · **Eletrônica** · **Produtos digitais**
+
+---
+
+## Evolução do portfólio
+
+Projetos antigos permanecem públicos quando agregam valor histórico, mas são identificados como **Legacy** ou **Study** para não serem confundidos com meu padrão atual de desenvolvimento.
+
+A documentação dos repositórios é mantida com o objetivo de mostrar não apenas *o que foi construído*, mas também **como o sistema foi pensado e como pode evoluir**.
+
+<div align="center">
+
+**[Ver portfólio](https://c-o-s-m-o.github.io) · [Explorar repositórios](https://github.com/c-o-s-m-o?tab=repositories) · [Entrar em contato](mailto:emanuelcosmo@hotmail.com)**
+
+</div>
