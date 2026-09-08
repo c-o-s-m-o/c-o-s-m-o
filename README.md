@@ -31,12 +31,40 @@ Meu trabalho combina engenharia de software, produto, dados, automação e IA ap
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Sistemas e produtos
+
+Projetos independentes, cada um com repositório, histórico e ciclo próprios.
+Os repositórios são privados por envolverem código comercial — abaixo, o que
+cada sistema resolve e a engenharia envolvida.
+
+| Sistema | O que resolve | Engenharia |
+|---|---|---|
+| **AI-EOS / AI Memory Gateway** | Memória e contexto para agentes de IA trabalharem em bases grandes gastando menos tokens | Python · FastAPI · PostgreSQL · Redis · RAG com `bge-m3` + reranking · servidor MCP com 500+ ferramentas · 174 módulos · 943 arquivos de teste |
+| **Orion Auth** | Provedor de identidade: cadastro, login, 2FA, catálogo de serviços | FastAPI · JWT · mTLS · Celery · Alembic · Docker |
+| **Análises B3** | Análise de carteira na B3, multi-tenant | FastAPI · PostgreSQL/TimescaleDB · MinIO · Next.js 16 · React 19 · ~185k linhas · 460 commits |
+| **Na Prática Engenheiro** | Plataforma de ensino: conteúdo, progresso, gamificação e assinaturas | FastAPI · PostgreSQL · Next.js · SSR com renderização sob demanda |
+| **Asaas Core** | Motor de pagamentos reaproveitável entre produtos | FastAPI · integração Asaas · gestão de segredos |
+| **CRM Inteligente** | CRM com integração WhatsApp via Evolution API | Next.js · FastAPI · ~215k linhas · 102 documentos técnicos |
+| **Projeto Paraguai** | Importação de catálogos de fornecedores com proveniência e comparação de preços | Python · monólito modular · Next.js 15 · React 19 |
+| **Cosmo UI** | Biblioteca de componentes reutilizáveis entre os produtos | Next.js · TypeScript · design system · 35 arquivos de teste |
+
+Práticas comuns a todos: build em container com usuário sem privilégio e
+healthcheck, segredos fora do versionamento (`.env.example` documentando cada
+variável), migrações versionadas com Alembic e separação entre domínio,
+apresentação e infraestrutura.
 
 ---
 
 ## Main Projects
 
-Projetos que representam melhor meu nível atual de engenharia e são priorizados no portfólio.
+Projetos **públicos**, navegáveis e priorizados no portfólio.
 
 | Projeto | O que demonstra | Stack principal |
 |---|---|---|
